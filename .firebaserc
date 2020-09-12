@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "loginangular-ab21f": {
+      "hosting": {
+        "login": [
+          "loginangular-ab21f"
+        ]
+      }
+    }
+  }
+}
